@@ -24,5 +24,6 @@
 
 <br />
 
-[![buMatheus status do GitHub](https://github-readme-stats.vercel.app/api?username=buMatheus)](https://github.com/buMatheus/buMatheus)
+[![buMatheus status do GitHub](https://github-readme-stats.vercel.app/api?username=buMatheus&show_icons=true&theme=radical)
+)](https://github.com/buMatheus/buMatheus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buMatheus&repo=buMatheus)](https://github.com/buMatheus/buMatheus)
