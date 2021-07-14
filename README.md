@@ -24,7 +24,7 @@
 
 <br />
 
-[![buMatheus status do GitHub](https://github-readme-stats.vercel.app/api?username=buMatheus&show_icons=true&theme=tokyonight)
+[![buMatheus status do GitHub](https://github-readme-stats.vercel.app/api?username=buMatheus&show_icons=true&theme=tokyonight)]
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buMatheus&layout=compact&theme=tokyonight)](https://github.com/buMatheus/buMatheus)
