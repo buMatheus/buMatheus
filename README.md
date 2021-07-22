@@ -39,3 +39,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buMatheus&repo=onFly&theme=tokyonight)](https://github.com/buMatheus/buMatheus)
 <br />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buMatheus&repo=carupi&theme=tokyonight)](https://github.com/buMatheus/buMatheus)
+<br />
+
