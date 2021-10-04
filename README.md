@@ -5,7 +5,7 @@
 - 🔭 Atualmente dedicando a projetos pessoais, novas linguagens e o estágio!
 - 🌱 Sempre em busca de aprendizado 🤣
 - 👯 Colaboração é tudo!
-- ⚡ Estagiário na VSoft
+- ⚡ Estagiário na Hotmart
 
 
 
