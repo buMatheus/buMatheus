@@ -21,6 +21,7 @@
 - CSS
 - PHP
 - Git
+- JAVA
 
 <br />
 
