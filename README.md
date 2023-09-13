@@ -2,7 +2,7 @@
 
 ## Atualmente sou estudante no curso de ciência da computação!!
 
-- 🔭 Atualmente dedicando a projetos pessoais, novas linguagens e o estágio!
+- 🔭 Atualmente dedicando a projetos pessoais, novas linguagens
 - 🌱 Sempre em busca de aprendizado 🤣
 - 👯 Colaboração é tudo!
 
