@@ -1,6 +1,6 @@
 ### Olá, meu nome é Matheus 👋
 
-## Atualmente sou estudante no curso de ciência da computação!!
+## Cientista da computação pela UFV-CAF!!
 
 - 🔭 Atualmente dedicando a projetos pessoais, novas linguagens
 - 🌱 Sempre em busca de aprendizado 🤣
