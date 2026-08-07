@@ -1,4 +1,7 @@
 ### Olá, meu nome é Matheus 👋
+ - Natural de Timóteo-MG
+ - Estudei na UFV - campus Florestal
+ - Técnico pelo CEFET - campus Timóteo
 
 ## Cientista da computação pela UFV-CAF!!
 
